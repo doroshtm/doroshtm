@@ -4,7 +4,7 @@ My name is __Gabriel Carraro Salzedas__ and I am a Computer Science student at C
 
 I am really interested in coding — may it be frontend or backend — and programming competitions!
 
-###Languages
+### Languages
 I have knowledge of __C++__ (especially), __C++__, __C#__, __Java__, __Javascript__, __PHP__ and __HTML/CSS__.
 
 
