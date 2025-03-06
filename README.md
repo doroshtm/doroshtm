@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is __Gabriel Carraro Salzedas__ and I am a Computer Science student at Colégio Técnico Industrial Prof. Isaac Portal Roldán - São Paulo State University.
+My name is __Gabriel Carraro Salzedas__ and I am a Computer Science student at ICMC - USP.
 
 I am really interested in coding — mainly backend — and programming competitions!
 
